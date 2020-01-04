@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Speech-Emulator/static/css/main.72f95aaf.chunk.css",
+    "main.js": "/Speech-Emulator/static/js/main.9209c3a0.chunk.js",
+    "main.js.map": "/Speech-Emulator/static/js/main.9209c3a0.chunk.js.map",
+    "runtime-main.js": "/Speech-Emulator/static/js/runtime-main.667729b9.js",
+    "runtime-main.js.map": "/Speech-Emulator/static/js/runtime-main.667729b9.js.map",
+    "static/js/2.00148e96.chunk.js": "/Speech-Emulator/static/js/2.00148e96.chunk.js",
+    "static/js/2.00148e96.chunk.js.map": "/Speech-Emulator/static/js/2.00148e96.chunk.js.map",
+    "index.html": "/Speech-Emulator/index.html",
+    "precache-manifest.1e21cecda14bff012bc98766c3b75701.js": "/Speech-Emulator/precache-manifest.1e21cecda14bff012bc98766c3b75701.js",
+    "service-worker.js": "/Speech-Emulator/service-worker.js",
+    "static/css/main.72f95aaf.chunk.css.map": "/Speech-Emulator/static/css/main.72f95aaf.chunk.css.map",
+    "static/js/2.00148e96.chunk.js.LICENSE": "/Speech-Emulator/static/js/2.00148e96.chunk.js.LICENSE",
+    "static/media/play-button-arrowhead.svg": "/Speech-Emulator/static/media/play-button-arrowhead.bd511318.svg",
+    "static/media/sort-down.svg": "/Speech-Emulator/static/media/sort-down.ca82bc74.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.667729b9.js",
+    "static/js/2.00148e96.chunk.js",
+    "static/css/main.72f95aaf.chunk.css",
+    "static/js/main.9209c3a0.chunk.js"
+  ]
+}
